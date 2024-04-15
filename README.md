@@ -32,7 +32,7 @@ I've developed a hobby of following what happens at the Supreme Court, and am ma
 ### MP3 Chapters
 
 * [`mp3chapters.github.io`](https://github.com/mp3chapters/mp3chapters.github.io) - A web app for adding chapters to mp3 files such as podcasts.
-* [`mp3chapters-player](https://github.com/mp3chapters/mp3chapters-player) - A desktop app for playing mp3 files that shows chapters.
+* [`mp3chapters-player`](https://github.com/mp3chapters/mp3chapters-player) - A desktop app for playing mp3 files that shows chapters.
 
 ### Miscellaneous
 
