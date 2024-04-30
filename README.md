@@ -10,6 +10,7 @@ I'm a computer science researcher in voting theory. Here is a list of my coding 
 * [`abcvoting-app`](https://github.com/DominikPeters/abcvoting-app) - Web app for testing approval-based committee voting rules, using the [`abcvoting`](https://github.com/martinlackner/abcvoting) package.
 * [`pabutools-app`](https://github.com/DominikPeters/pabutools-app) - Web app for testing approval-based participatory budgeting rules, using the [`pabutools`](https://github.com/pbvoting/pabutools) package.
 * [`pref_voting-app`](https://github.com/DominikPeters/abcvoting-app) - Web app for testing ranking-based single-winner voting rules, using the [`pref_voting`](https://github.com/voting-tools/pref_voting) package.
+* [`apportionment-app`](https://github.com/DominikPeters/apportionment-app) - Web app for computing apportionment rules.
 
 #### tikz.dev
 
