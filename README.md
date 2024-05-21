@@ -38,7 +38,7 @@ I've developed a hobby of following what happens at the Supreme Court, and am ma
 
 #### Miscellaneous
 
-* [`texpresso-vscode`](https://github.com/DominikPeters/texpresso-vscode) - Visual Studio Code extension for using the [https://github.com/let-def/texpresso/](TeXpresso) live rendering system.
+* [`texpresso-vscode`](https://github.com/DominikPeters/texpresso-vscode) - Visual Studio Code extension for using the [TeXpresso](https://github.com/let-def/texpresso/) live rendering system.
 * [`pqtree.js`](https://github.com/DominikPeters/pqtree.js) - Javascript code for making PQ-trees for the consecutive ones problem.
 * [`drag-drop-weak-orders`](https://github.com/DominikPeters/drag-drop-weak-orders) - code for a simple drag and drop interface for weak orders (rankings with indifferences)
 * [`ethical.diet`](https://github.com/DominikPeters/ethical.diet) - Code behind a website for showing the impact of buying animal products (infrequently maintained).
