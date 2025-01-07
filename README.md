@@ -26,10 +26,11 @@ I've developed a hobby of following what happens at the Supreme Court, and am ma
 * [`scotus-podcast`](https://github.com/DominikPeters/scotus-podcast) - Code producing a [podcast feed](https://scotusstats.com/podcast/) of oral arguments, with podcast chapters and detailed description.
 * [`scotus-videos`](https://github.com/DominikPeters/scotus-videos) - Code producing videos showing transcripts of oral arguments, published on [YouTube](https://www.youtube.com/@SCOTUSOralArgument).
 
-#### Linear Programming
+#### Linear Programming and Optimization
 
 * [`lp-model`](https://github.com/DominikPeters/lp-model) - A javascript library for modelling and solving (integer) linear programs.
 * [`lpdual.com`](https://github.com/DominikPeters/lpdual.com) - Code for a simple website helping with constructing LP duals, versions of Farkas' lemma, and KKT conditions.
+* [`PyNormaliz_inequalities`](https://github.com/DominikPeters/PyNormaliz_inequalities) - Python package for interacting with Normaliz, e.g. to count integer points in a polyhedron.
 
 #### MP3 Chapters
 
