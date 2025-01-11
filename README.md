@@ -31,6 +31,7 @@ I've developed a hobby of following what happens at the Supreme Court, and am ma
 * [`lp-model`](https://github.com/DominikPeters/lp-model) - A javascript library for modelling and solving (integer) linear programs.
 * [`lpdual.com`](https://github.com/DominikPeters/lpdual.com) - Code for a simple website helping with constructing LP duals, versions of Farkas' lemma, and KKT conditions.
 * [`PyNormaliz_inequalities`](https://github.com/DominikPeters/PyNormaliz_inequalities) - Python package for interacting with Normaliz, e.g. to count integer points in a polyhedron.
+* [`scs.wasm`](https://github.com/DominikPeters/scs.wasm) - A WebAssembly version of the SCS convex programming solver.
 
 #### MP3 Chapters
 
