@@ -17,6 +17,7 @@ I'm a computer science researcher in voting theory. Here is a list of my coding 
 * [`pgf-tikz-html-manual`](https://github.com/DominikPeters/pgf-tikz-html-manual) - HTML version of the [`PGF/TikZ`](https://github.com/pgf-tikz/pgf) manual, produced using [`lwarp`](https://github.com/bdtc/lwarp).
 * [`pgfplots-html-manual`](https://github.com/DominikPeters/pgfplots-html-manual) - HTML version of the [`pgfplots`](https://pgfplots.sourceforge.net/) manual.
 * [`tikz.dev-style`](https://github.com/DominikPeters/tikz.dev-style) - Repository with a minimal example of making websites in the style of [tikz.dev](https://tikz.dev).
+* [`tikz-editor`](https://github.com/DominikPeters/tikz-editor) - WYSIWYG editor for TikZ figures
 
 #### Supreme Court of the United States
 
